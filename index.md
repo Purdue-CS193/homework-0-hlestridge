@@ -1,3 +1,9 @@
+### Hannah's First CS 193 Homework
+
+- I like that CS193 is not taught by a professor
+- I like the little attedence quizzes in class
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
